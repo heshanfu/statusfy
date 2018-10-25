@@ -35,7 +35,7 @@
     "statuspage"
   ],
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.5",
+    "@fortawesome/fontawesome-svg-core": "^1.2.7",
     "@nuxtjs/axios": "^5.3.3",
     "@nuxtjs/google-analytics": "^2.0.2",
     "@nuxtjs/pwa": "^2.5.0",
